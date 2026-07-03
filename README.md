@@ -63,5 +63,6 @@ Hobbies:
 ## Projects
 <div id="projects" align="left">
   
+- HIRO (game): https://github.com/svtmlnk/hiro-game
 - All my old projects: https://github.com/svtmlnk/my_old_projects
 
