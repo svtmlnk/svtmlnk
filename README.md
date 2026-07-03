@@ -63,5 +63,5 @@ Hobbies:
 ## Projects
 <div id="projects" align="left">
   
-- All my old projects: ###
+- All my old projects: https://github.com/svtmlnk/my_old_projects
 
