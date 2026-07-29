@@ -64,5 +64,6 @@ Hobbies:
 <div id="projects" align="left">
   
 - HIRO (game): https://github.com/svtmlnk/hiro-game
+- Noises: https://github.com/svtmlnk/noises
 - All my old projects: https://github.com/svtmlnk/my_old_projects
 
