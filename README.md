@@ -32,9 +32,9 @@ Hobbies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/> 
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SAAS" alt="SAAS" width="40" height="40"/>
- <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="40"/>
   <img src="https://cdn.phaser.io/images/logo/logo-download-vector.png" title="Phaser" alt="Phaser" width="50" height="40"/>
@@ -64,6 +64,6 @@ Hobbies:
 <div id="projects" align="left">
   
 - HIRO (game): https://github.com/svtmlnk/hiro-game
-- Noises: https://github.com/svtmlnk/noises
+- Noises (audio hosting): https://github.com/svtmlnk/noises-audio_hosting
 - All my old projects: https://github.com/svtmlnk/my_old_projects
 
