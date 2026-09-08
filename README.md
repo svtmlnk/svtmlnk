@@ -6,7 +6,7 @@
 ##
 
 <div id="about" align="left">
-  <p align="center">I'm a 21-years-old <b>Frontend developer</b> and self-taught <b>WEB/UX/UI Designer</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps.</p>
+  <p align="center"><b>Frontend developer</b> and self-taught <b>WEB/UX/UI Designer</b>. My responsibility is to create a high-quality, convenient and interactive interface for websites and apps.</p>
 
 Activity:
   - Development 💻
