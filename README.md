@@ -64,6 +64,8 @@ Hobbies:
 <div id="projects" align="left">
   
 - HIRO (game): https://github.com/svtmlnk/hiro-game
+- VM001 (game): https://github.com/svtmlnk/hiro_game_oldver
+- ARKANOID (game): https://github.com/svtmlnk/task-pepper
 - Noises (audio hosting): https://github.com/svtmlnk/noises-audio_hosting
 - All my old projects: https://github.com/svtmlnk/my_old_projects
 
